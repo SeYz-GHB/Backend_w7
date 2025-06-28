@@ -1,0 +1,8 @@
+# Prevent all .env files anywhere in the project
+.env
+**/.env
+
+# Node.js standard ignores
+node_modules/
+dist/
+.DS_Store
